@@ -11,7 +11,6 @@
   inputs.src-fletcher-0_2_2.ref   = "refs/tags/0.2.2";
   inputs.src-fletcher-0_2_2.owner = "Akito13";
   inputs.src-fletcher-0_2_2.repo  = "nim-fletcher";
-  inputs.src-fletcher-0_2_2.dir   = "";
   inputs.src-fletcher-0_2_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
