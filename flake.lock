@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "0_1_0",
-        "lastModified": 1652391031,
-        "narHash": "sha256-Tsn2KVoUj2oNZ9Mtdixv0430p3Qw70XMCc9nhZWU0XA=",
+        "lastModified": 1652791450,
+        "narHash": "sha256-hXbYgcRN8+XMZ1hfVZOX7i3Pu8JV/p1Y72PhoK8L/fs=",
         "owner": "nim-nix-pkgs",
         "repo": "fletcher",
-        "rev": "bc9f03dd279cec7efb4f89d3bdb3333b9d45e68a",
+        "rev": "06cfedd04691433915a9f6cbcac2bab6befc0965",
         "type": "github"
       },
       "original": {
@@ -60,11 +60,11 @@
       },
       "locked": {
         "dir": "0_2_2",
-        "lastModified": 1652391031,
-        "narHash": "sha256-Tsn2KVoUj2oNZ9Mtdixv0430p3Qw70XMCc9nhZWU0XA=",
+        "lastModified": 1652791450,
+        "narHash": "sha256-hXbYgcRN8+XMZ1hfVZOX7i3Pu8JV/p1Y72PhoK8L/fs=",
         "owner": "nim-nix-pkgs",
         "repo": "fletcher",
-        "rev": "bc9f03dd279cec7efb4f89d3bdb3333b9d45e68a",
+        "rev": "06cfedd04691433915a9f6cbcac2bab6befc0965",
         "type": "github"
       },
       "original": {
@@ -87,11 +87,11 @@
       },
       "locked": {
         "dir": "0_3_0",
-        "lastModified": 1652391031,
-        "narHash": "sha256-Tsn2KVoUj2oNZ9Mtdixv0430p3Qw70XMCc9nhZWU0XA=",
+        "lastModified": 1652791450,
+        "narHash": "sha256-hXbYgcRN8+XMZ1hfVZOX7i3Pu8JV/p1Y72PhoK8L/fs=",
         "owner": "nim-nix-pkgs",
         "repo": "fletcher",
-        "rev": "bc9f03dd279cec7efb4f89d3bdb3333b9d45e68a",
+        "rev": "06cfedd04691433915a9f6cbcac2bab6befc0965",
         "type": "github"
       },
       "original": {
@@ -114,11 +114,11 @@
       },
       "locked": {
         "dir": "0_3_1",
-        "lastModified": 1652391031,
-        "narHash": "sha256-Tsn2KVoUj2oNZ9Mtdixv0430p3Qw70XMCc9nhZWU0XA=",
+        "lastModified": 1652791450,
+        "narHash": "sha256-hXbYgcRN8+XMZ1hfVZOX7i3Pu8JV/p1Y72PhoK8L/fs=",
         "owner": "nim-nix-pkgs",
         "repo": "fletcher",
-        "rev": "bc9f03dd279cec7efb4f89d3bdb3333b9d45e68a",
+        "rev": "06cfedd04691433915a9f6cbcac2bab6befc0965",
         "type": "github"
       },
       "original": {
@@ -141,11 +141,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652391031,
-        "narHash": "sha256-Tsn2KVoUj2oNZ9Mtdixv0430p3Qw70XMCc9nhZWU0XA=",
+        "lastModified": 1652791450,
+        "narHash": "sha256-hXbYgcRN8+XMZ1hfVZOX7i3Pu8JV/p1Y72PhoK8L/fs=",
         "owner": "nim-nix-pkgs",
         "repo": "fletcher",
-        "rev": "bc9f03dd279cec7efb4f89d3bdb3333b9d45e68a",
+        "rev": "06cfedd04691433915a9f6cbcac2bab6befc0965",
         "type": "github"
       },
       "original": {
